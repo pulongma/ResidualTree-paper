@@ -1,0 +1,24 @@
+R version 4.4.3 (2025-02-28)
+Platform: x86_64-pc-linux-gnu
+Running under: AlmaLinux 9.6 (Sage Margay)
+
+Matrix products: default
+BLAS/LAPACK: /opt/rit/el9/20240815/app/linux-rhel9-x86_64_v3/gcc-11.4.1/openblas-0.3.27-xhezwiemqjrojal52eerifzaabnzadyq/lib/libopenblasp-r0.3.27.so;  LAPACK version 3.12.0
+
+locale:
+ [1] LC_CTYPE=en_US.UTF-8       LC_NUMERIC=C              
+ [3] LC_TIME=en_US.UTF-8        LC_COLLATE=en_US.UTF-8    
+ [5] LC_MONETARY=en_US.UTF-8    LC_MESSAGES=en_US.UTF-8   
+ [7] LC_PAPER=en_US.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C            
+[11] LC_MEASUREMENT=en_US.UTF-8 LC_IDENTIFICATION=C       
+
+time zone: America/Chicago
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.4.3    BayesTree_0.3-1.5 tools_4.4.3       nnet_7.3-20      
+[5] DiceDesign_1.10  
